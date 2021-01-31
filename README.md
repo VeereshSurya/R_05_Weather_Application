@@ -3,7 +3,7 @@ Its a very simple beginers Weather application. see project demo [Here](https://
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://r-05-weather-application.netlify.app/).
 
 ## Available Scripts
 
